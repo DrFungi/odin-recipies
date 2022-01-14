@@ -17,3 +17,16 @@ h1 {
     margin-left: auto;
     margin-right: auto;
 }
+
+.background {
+    background-color: burlywood;
+}
+
+.center {
+    text-align: center;
+    list-style: inside;
+    /*background: crimson;*/
+}
+h2 {
+    text-align: center;
+}
