@@ -11,6 +11,7 @@ h1 {
 }
 
 .image {
+    display: block;
     width: 400px;
     height: auto;
     display: block;
@@ -29,4 +30,12 @@ h1 {
 }
 h2 {
     text-align: center;
+}
+
+.box {
+    /*background: whitesmoke;*/
+    width: fit-content;
+    padding: 10px;
+    margin: 10px auto;
+    /*border: yellow solid 2px;*/
 }
